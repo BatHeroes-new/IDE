@@ -1,19 +1,24 @@
 # Поект 1. Анализ резюме из HeadHunter
 
 ## Оглавление
-[1. Описание проекта](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13.%20Визуализация%20данных/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13.%20Визуализация%20данных/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Какой-кейс-решаем)
 
-[3. Что практикуем](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13.%20Визуализация%20данных/README.md#Что-практикуем)
+[3. Файлы csv](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Файлы-csv)
 
-[4. Результат](https://github.com/BatHeroes-new/sf_data_sience/blob/main/PYTHON-13.%20Визуализация%20данных/README.md#Результат)
+[4. Что практикуем](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Что-практикуем)
+
+[5. Результат](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Результат)
 
 ### Описание проекта
 Работаем с таблицей соискателей на hh.ru
 
 ### Какой кейс решаем
 [PROJECT-1. Анализ резюме из HeadHunter](https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+DST-3.0+28FEB2021/block-v1:SkillFactory+DST-3.0+28FEB2021+type@sequential+block@bf69280a161744a8ab51bcb50b2e0b44/block-v1:SkillFactory+DST-3.0+28FEB2021+type@vertical+block@8e3386b9cf914f4e921cfe372a241d7c)
+
+### Файлы csv
+[csv](https://drive.google.com/drive/folders/1JY47YIlg-Pt6MXxosT6uQNAr6zo9petC?usp=sharing)
 
 ### Что практикуем
 Учимся преобразовывать, иследовать, очищать данные.
