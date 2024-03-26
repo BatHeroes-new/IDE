@@ -5,7 +5,7 @@
 
 [2. Какой кейс решаем](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Какой-кейс-решаем)
 
-[3. Файлы csv](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Файлы-csv)
+[3. Файлы](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Файлы)
 
 [4. Что практикуем](https://github.com/BatHeroes-new/IDE/tree/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/README.md#Что-практикуем)
 
@@ -17,8 +17,9 @@
 ### Какой кейс решаем
 [PROJECT-1. Анализ резюме из HeadHunter](https://apps.skillfactory.ru/learning/course/course-v1:SkillFactory+DST-3.0+28FEB2021/block-v1:SkillFactory+DST-3.0+28FEB2021+type@sequential+block@bf69280a161744a8ab51bcb50b2e0b44/block-v1:SkillFactory+DST-3.0+28FEB2021+type@vertical+block@8e3386b9cf914f4e921cfe372a241d7c)
 
-### Файлы csv
+### Файлы
 [csv](https://drive.google.com/drive/folders/1JY47YIlg-Pt6MXxosT6uQNAr6zo9petC?usp=sharing)
+[Код с графиками](https://nbviewer.org/github/BatHeroes-new/IDE/blob/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project_0.ipynb)
 
 ### Что практикуем
 Учимся преобразовывать, иследовать, очищать данные.
