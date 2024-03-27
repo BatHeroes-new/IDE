@@ -19,7 +19,7 @@
 
 ### Файлы
 [csv](https://drive.google.com/drive/folders/1JY47YIlg-Pt6MXxosT6uQNAr6zo9petC?usp=sharing)
-[Код с графиками](https://nbviewer.org/github/BatHeroes-new/IDE/blob/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Project_0.ipynb)
+[Код с графиками](https://nbviewer.org/github/BatHeroes-new/IDE/blob/main/PROJECT-1.%20Анализ%20резюме%20из%20HeadHunter/Ноутбук-шаблон%20Project%201.ipynb)
 
 ### Что практикуем
 Учимся преобразовывать, иследовать, очищать данные.
